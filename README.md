@@ -12,7 +12,7 @@ place to store vim and tmux things as I learn them
 - `d` and then a movement command, eg `dG` to delete until end of file
 - Deleting until a character: `dt<char>`
 - Deleting until and including character: `df<char>`
--
+
 ## Resizing panes
 `Ctrl-a :resize-pane -R 10`
 
