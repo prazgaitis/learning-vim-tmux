@@ -31,3 +31,9 @@ place to store vim and tmux things as I learn them
 
 - The -k flag will kill the process in the pane and force tmux to read the updated bashrc file
 
+
+### Macros!
+- start in command mode
+- press `qq`
+- do something, then press `q`
+- press 100@q //will do this thing 100x
